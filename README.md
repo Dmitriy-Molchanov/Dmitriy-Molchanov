@@ -10,8 +10,6 @@
 Dmitriy-Molchanov/Dmitriy-Molchanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- Исходный файл. 
-
- Изменения на 22.16
+ Исходный файл.
 
  Добавили изменения в файл 22.20
